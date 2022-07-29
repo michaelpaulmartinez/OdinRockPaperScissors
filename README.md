@@ -1,1 +1,1 @@
-# OdinTicTacToe
+# OdinRockPaperScissors
