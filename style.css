@@ -1,11 +1,16 @@
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
 h1 {
-    font-size: 44px;
-    color: magenta;
+    font-size: 38px;
     font-weight: bold;
+}
+
+.styleThree {
+    font-size: 32px;
+    margin-top: 0;
 }
